@@ -6,9 +6,9 @@ pool:
 
 variables:
   subscription: 17c82494-b9e6-4f1a-b6b3-8db10c9e9d1b
-  resourceGroup: resourcegroup-tfstate
-  storageAccount: terraformtfstateskip
-  container: tfstate
+  resourceGroup: azure-devops-RG
+  storageAccount: terrafor1001
+  container: terraform
   tfstateFile: terraform.tfstate
   anyTfChanges: false
 
